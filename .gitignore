@@ -1,0 +1,5 @@
+.venv
+.vscode
+__pycashe__
+data.db
+*.pyc
