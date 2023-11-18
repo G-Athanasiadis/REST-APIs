@@ -1,10 +1,11 @@
-flask == 2.2.3
+flask 
 flask-sqlalchemy
 flask-smorest
 python-dotenv
 marshmallow
 flask-jwt-extended
 passlib
-Werkzeug == 2.2.2
+Werkzeug 
 flask-migrate
+gunicorn
 
