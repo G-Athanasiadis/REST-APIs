@@ -8,4 +8,5 @@ passlib
 Werkzeug 
 flask-migrate
 gunicorn
+psycopg2
 
